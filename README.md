@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi there 👋 I'm Weili (Lawrence) Li and I am passionate about programming. Currently, my focus is on frontend development, but I also have experience in backend development. I am an open-source enthusiast and currently maintain an AI-powered note-taking project called [Reor](https://github.com/reorproject/reor). I enjoy learning new things and constantly developing and building stuff.
 
-<!--
-**weilirs/weilirs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technical Skills 🛠️
+- Languages: JavaScript, Python, TypeScript
+- Frameworks & Libraries: React, Next.js, Node.js
+- Tools & Platforms: GitHub, Docker, Vercel
 
-Here are some ideas to get you started:
+### Professional Goals 🚀
+- Career Development: Focused on furthering my career in software development, specifically in roles that leverage my experience and technical skills in building impactful tech solutions.
+- Continuous Learning: Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with Me 📬
+- 🐦 [Twitter](https://x.com/LawrenceLi1234)
+- 📫 [Email](mailto:740186111serious@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/weili-li-927790209/)
